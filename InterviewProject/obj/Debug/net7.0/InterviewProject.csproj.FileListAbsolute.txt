@@ -1,0 +1,17 @@
+C:\src\InterviewProject\InterviewProject\InterviewProject\bin\Debug\net7.0\InterviewProject.exe
+C:\src\InterviewProject\InterviewProject\InterviewProject\bin\Debug\net7.0\InterviewProject.deps.json
+C:\src\InterviewProject\InterviewProject\InterviewProject\bin\Debug\net7.0\InterviewProject.runtimeconfig.json
+C:\src\InterviewProject\InterviewProject\InterviewProject\bin\Debug\net7.0\InterviewProject.dll
+C:\src\InterviewProject\InterviewProject\InterviewProject\bin\Debug\net7.0\InterviewProject.pdb
+C:\src\InterviewProject\InterviewProject\InterviewProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.csproj.AssemblyReference.cache
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.AssemblyInfoInputs.cache
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.AssemblyInfo.cs
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.csproj.CoreCompileInputs.cache
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.csproj.CopyComplete
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.dll
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\refint\InterviewProject.dll
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.pdb
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\InterviewProject.genruntimeconfig.cache
+C:\src\InterviewProject\InterviewProject\InterviewProject\obj\Debug\net7.0\ref\InterviewProject.dll
