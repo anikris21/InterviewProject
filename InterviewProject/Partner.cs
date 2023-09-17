@@ -9,11 +9,11 @@ namespace InterviewProject
 {
     class Partner : IComparable<Partner>
     {
-        public string firstName;
-        public string lastName;
-        public string email;
-        public string country;
-        public List<string> availableDates = new List<string>();
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public string email { get; set; }
+        public string country { get; set; }
+        public List<string> availableDates { get; set; } = new List<string>();
 
         // : IComparable<Partner>
         public int CompareTo(Partner p)
@@ -44,10 +44,11 @@ namespace InterviewProject
         public List<Attendees> countries = new List<Attendees>();
     }
 
+
     class PartnerList
     {
         [JsonProperty("partners")]
-        public List<Partner> partners;
+        public List<Partner> partners { get; set; }
 
         public List<Partner> getPartners(string date1, string datenext, Dictionary<string, List<Partner>> map)
         {

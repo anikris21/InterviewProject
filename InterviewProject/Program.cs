@@ -11,6 +11,9 @@ HttpClient client = new() { BaseAddress = new Uri("https://candidate.hubteam.com
 
 // Retrive partners
 HttpResponseMessage response = await client.GetAsync("candidateTest/v3/problem/dataset?userKey=673e04937a3531efcca72a572feb");
+
+
+var response1 = await client.GetFromJsonAsync<PartnerList>("candidateTest/v3/problem/dataset?userKey=673e04937a3531efcca72a572feb");
 if (response.IsSuccessStatusCode)
 {
     Console.WriteLine("retrieved list of partners");
